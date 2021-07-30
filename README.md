@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @facells
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently developing Learnipy, to make machine learning easier for everyone
+- 🌱 I’m currently developing Learnipy, to make machine learning easier for everyone, [https://github.com/facells/learnipy]
 - 💞️ I’m looking to collaborate with machine learning python programmers to improve Learnipy
 - 📫 How to reach me: fabio.celli.phd@gmail.com
 
