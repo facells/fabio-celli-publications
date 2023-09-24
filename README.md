@@ -5,7 +5,7 @@ research area:
 - Digital Humanities
 
 
-[Google Scholar Citations] (https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it)
+[Google Scholar Citations](https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it)
 
 
 Publications
@@ -14,8 +14,11 @@ Publications
 :page_facing_up: Fabio Celli (2022). Learnipy. Technical report.
 
 2021
-:page_facing_up: Fabio Celli, Mirko Lai, Armend Duzha, Cristina Bosco, Viviana Patti (2021). Policycorpus XL: an Italian Corpus for the detection of Hate Speech Against Politics. Proceedings of Clic-it 2021.
+
+:page_facing_up: Fabio Celli, Mirko Lai, Armend Duzha, Cristina Bosco, Viviana Patti (2021). Policycorpus XL: an Italian Corpus for the detection of Hate Speech Against Politics. Proceedings of Clic-it 2021. [https://github.com/facells/publications/blob/main/2021_policycorpusxl%40clicit21.pdf]
+
 :page_facing_up: Policycorpus  Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223. https://doi.org/10.1007/s43545-021-00234-2
+
 :page_facing_up: Lex2vec  Fabio Celli (2021). Lex2vec: making Explainable Word Embeddings via Lexical Resources
 
 2020
