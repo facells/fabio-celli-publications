@@ -31,7 +31,7 @@
 
 *2020*
 
- 📄 [Riccardo Coltrinari, Alessandro Antinori, Fabio Celli (2020). Surviving the Legal Jungle:Text Classification of Italian Laws in extremely Noisy conditions. Proceedings of Clic-it 2020, Bologna, Italy](https://github.com/facells/fabio-celli-publications/blob/main/docs/2020_textCat@clicit20.pdf)
+ 📄 [Riccardo Coltrinari, Alessandro Antinori, Fabio Celli (2020). Surviving the Legal Jungle:Text Classification of Italian Laws in extremely Noisy conditions. Proceedings of Clic-it 2020, Bologna, Italy](https://github.com/facells/fabio-celli-publications/blob/main/docs/2020_textCat@clicit20.pdf) 📦 [textcat data](https://github.com/facells/fabio-celli-publications/blob/main/docs/textcat_data.zip)
 
 *2019*
 
@@ -43,29 +43,27 @@
 
 *2017*
 
- 📄 Fabio Celli, Pietro Z Massani, Bruno Lepri (2017). Profilio: Psychometric Profiling to Boost Social Media Advertising. Proceedings of the 2017 ACM on Multimedia Conference, Mountain View, California, US. pp:546-550.
+ 📄 [Fabio Celli, Pietro Z Massani, Bruno Lepri (2017). Profilio: Psychometric Profiling to Boost Social Media Advertising. Proceedings of the 2017 ACM on Multimedia Conference, Mountain View, California, US. pp:546-550.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2017-fc-al-profilio-paperACMMM17.pdf)
  
- 📄 Cristina Segalin, Fabio Celli, Luca Polonio, Michal Kosinski, David Stillwell, Nicu Sebe, Marco Cristani, Bruno Lepri (2017). What your Facebook profile picture reveals about your personality. Proceedings of the 2017 ACM on Multimedia Conference, Mountain View, California, US. pp:460-468.
+ 📄 [Cristina Segalin, Fabio Celli, Luca Polonio, Michal Kosinski, David Stillwell, Nicu Sebe, Marco Cristani, Bruno Lepri (2017). What your Facebook profile picture reveals about your personality. Proceedings of the 2017 ACM on Multimedia Conference, Mountain View, California, US. pp:460-468.](2017-segalin-al_personality-facebook-pictures-ACMMM.pdf)
  
- 📄 Sandro Battisti, Bruno Lepri, Paolo Cremonesi, Fabio Celli, Michele Marchesoni (2017). Data-driven social innovation: a methodology to support employees of retail shops. Proceedings of International Congress of Knowledge and Innovation-Ciki , Sao Paulo, Brazil.
+ 📄 [Sandro Battisti, Bruno Lepri, Paolo Cremonesi, Fabio Celli, Michele Marchesoni (2017). Data-driven social innovation: a methodology to support employees of retail shops. Proceedings of International Congress of Knowledge and Innovation-Ciki , Sao Paulo, Brazil.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2017-sb-al-sabre-ciki.pdf)
  
- 📄 Alessandra Cervone, Evgeny A Stepanov, Fabio Celli, Giuseppe Riccardi (2017). Irony Detection: from the Twittersphere to the News Space. Proceedings of Clic-it 2017, Rome, Italy.
+ 📄 [Alessandra Cervone, Evgeny A Stepanov, Fabio Celli, Giuseppe Riccardi (2017). Irony Detection: from the Twittersphere to the News Space. Proceedings of Clic-it 2017, Rome, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2017ac-al-IronyDetection@clicit.pdf)
 
 *2016*
 
- 📄 Fabio Celli, Evgeny A. Stepanov, Massimo Poesio, Giuseppe Riccardi. (2016). Predicting Brexit: Classifying Agreement is Better than Sentiment and Pollsters. In Proc. of PEOPLES, in conjunction to COLing 2016.
+ 📄 [Fabio Celli, Evgeny A. Stepanov, Massimo Poesio, Giuseppe Riccardi. (2016). Predicting Brexit: Classifying Agreement is Better than Sentiment and Pollsters. In Proc. of PEOPLES, in conjunction to COLing 2016.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2016_brexit@peoples16.pdf)
  
- 📄 Firoj Alam, Fabio Celli, Evgeny A. Stepanov, Arindam Ghosh, Giuseppe Riccardi. (2016). The Social Mood of News: Self-reported Annotations to Design Automatic Mood Detection Systems. In Proc. of PEOPLES, in conjunction to COLing 2016.
+ 📄 [Firoj Alam, Fabio Celli, Evgeny A. Stepanov, Arindam Ghosh, Giuseppe Riccardi. (2016). The Social Mood of News: Self-reported Annotations to Design Automatic Mood Detection Systems. In Proc. of PEOPLES, in conjunction to COLing 2016.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2016_social-mood-news@peoples16.pdf)
  
- 📄 Fabio Celli, Evgeny A. Stepanov, Giuseppe Riccardi. (2016). Tell me who you are, I'll tell whether you agree or disagree: Prediction of agreement/disagreement in news blog. In Proc. of NLPMJ, in conjunction to IJCAI 2016. 💻 [Agreement/Disagreement Reltion extraction (ADRian) source code]()
+ 📄 [Fabio Celli, Evgeny A. Stepanov, Giuseppe Riccardi. (2016). Tell me who you are, I'll tell whether you agree or disagree: Prediction of agreement/disagreement in news blog. In Proc. of NLPMJ, in conjunction to IJCAI 2016.](2016_fc-al_agree@NLPMJ.pdf) 💻 [Agreement/Disagreement Reltion extraction (ADRian) source code](https://github.com/facells/fabio-celli-publications/blob/main/docs/adrian1.zip)
  
- 📄 Fabio Celli. (2016). Computational Approaches to the Analysis of Human Creativity. In Lecture Notes in Morphogenesis, p 187-195.
+ 📄 [Fabio Celli. (2016). Computational Approaches to the Analysis of Human Creativity. In Lecture Notes in Morphogenesis, p 187-195.](2016_creativity@LNiM.pdf)
  
- 📄 Fabio Celli, Giuseppe Riccardi, Firoj Alam. (2016). Multilevel Annotation of Agreement and Disagreement in Italian News Blogs. In Proc. of LREC 2016, p 2829-2832.
+ 📄 [Fabio Celli, Giuseppe Riccardi, Firoj Alam. (2016). Multilevel Annotation of Agreement and Disagreement in Italian News Blogs. In Proc. of LREC 2016, p 2829-2832.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2016_celli-al_agree-disagree-multilevel.pdf) 📦 [CorEA dataset](https://github.com/facells/fabio-celli-publications/blob/main/docs/CorEA.v2-final.zip)
  
- 📘 Celli, F. (2016) I dati umani. Aracne Editrice, Roma. 132 pagine.
- 
- 📄 Golnoosh Farnadi, Geetha Sitaraman, Shanu Sushmita, Fabio Celli, Michal Kosinski, David Stillwell, Sergio Davalos, Marie-Francine Moens, Martine De Cock (2016), Computational Personality Recognition in Social Media, In User Modeling and User-Adapted Interaction. Springer. pp: 1-34.
+ 📄 [Golnoosh Farnadi, Geetha Sitaraman, Shanu Sushmita, Fabio Celli, Michal Kosinski, David Stillwell, Sergio Davalos, Marie-Francine Moens, Martine De Cock (2016), Computational Personality Recognition in Social Media, In User Modeling and User-Adapted Interaction. Springer. pp: 1-34.](2016_farnadi-al_personality-social@UMUAI.pdf)
 
 *2015*
 
@@ -83,7 +81,7 @@
 
  📄 CorEA dataset  Celli F, Riccardi G, Ghosh A. (2014) : CorEA: Italian News Corpus with Emotions and Agreement. Proceedings of Clic-it 2014: 98-102. 10.12871/CLICIT2014120
  
- 📄  Celli F, Lepri B, Biel J I, Gatica-Perez D, Riccardi G, Pianesi F (2014): The Workshop on Computational Personality Recognition 2014. ACM Multimedia 2014: 1245-1246 📦 WCPR14 data
+ 📄 Celli F, Lepri B, Biel J I, Gatica-Perez D, Riccardi G, Pianesi F (2014): The Workshop on Computational Personality Recognition 2014. ACM Multimedia 2014: 1245-1246 📦 WCPR14 data
  
  📄 Celli F, Bruni E, Lepri B. (2014). Automatic Personality and Interaction Style Recognition from Facebook Profile Pictures. ACM Multimedia: 1101-1104.
  
