@@ -1,20 +1,17 @@
-#Fabio Celli publications#
+**Fabio Celli publications**
 
-##research area:
+**research area**
 - Personality Computing
 - Natural Language Processing
 - Computational Social Sciences
 - Digital Humanities
 
-##links
-[Scholar](https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it)
+**links**
 
-[Twitter-x](https://twitter.com/facells)
-
-📧 fabio.celli.phd@gmail.com
+[Scholar](https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it) | [Twitter-x](https://twitter.com/facells) | 📧 fabio.celli.phd@gmail.com
 
 
-##Publications
+**Publications**
 
 *2023*
 
@@ -28,13 +25,13 @@
 
 :page_facing_up: [Fabio Celli, Mirko Lai, Armend Duzha, Cristina Bosco, Viviana Patti (2021). Policycorpus XL: an Italian Corpus for the detection of Hate Speech Against Politics. Proceedings of Clic-it 2021.](https://github.com/facells/publications/blob/main/docs/2021_policycorpusxl@clicit21.pdf)
 
-:page_facing_up: [Policycorpus  Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_duzha-al_hate-politics.pdf) 📦 [policycorpusv1](https://github.com/facells/fabio-celli-publications/blob/main/docs/policycorpus.zip)
+:page_facing_up: [Policycorpus  Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_duzha-al_hate-politics.pdf) 📦 [policycorpusv1 data](https://github.com/facells/fabio-celli-publications/blob/main/docs/policycorpus.zip)
 
 :page_facing_up: Lex2vec  Fabio Celli (2021). Lex2vec: making Explainable Word Embeddings via Lexical Resources
 
 *2020*
 
- TextCat dataset :page_facing_up: Riccardo Coltrinari, Alessandro Antinori, Fabio Celli (2020). Surviving the Legal Jungle:Text Classification of Italian Laws in extremely Noisy conditions. Proceedings of Clic-it 2020, Bologna, Italy
+ :page_facing_up: TextCat dataset :page_facing_up: Riccardo Coltrinari, Alessandro Antinori, Fabio Celli (2020). Surviving the Legal Jungle:Text Classification of Italian Laws in extremely Noisy conditions. Proceedings of Clic-it 2020, Bologna, Italy
 
 2019
  Wiki Music dataset  Fabio Celli (2019). The Wiki Music dataset: A tool for computational analysis of popular music. ArXiv. Cornell Univeristy. Aug 2019.
