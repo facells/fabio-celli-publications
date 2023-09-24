@@ -1,27 +1,36 @@
-research area:
+#Fabio Celli publications
+
+##research area:
 - Personality Computing
 - Natural Language Processing
 - Computational Social Sciences
 - Digital Humanities
 
+##links
+[Scholar](https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it)
+[Twitter-x](https://twitter.com/facells)
+📧 fabio.celli.phd@gmail.com
 
-[Google Scholar Citations](https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it)
+##Publications
 
+*2023*
 
-Publications
+:page_facing_up: [Lai, M., Celli, F., Ramponi, A., Tonelli, S., Bosco, C., & Patti, V. (2023). Haspeede3 at evalita 2023: Overview of the political and religious hate speech detection task. In Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2023), CEUR. org, Parma, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2023_lai-al_haspeede3@evalita.pdf)
 
-2022
+*2022*
+
 :page_facing_up: Fabio Celli (2022). Learnipy. Technical report.
 
-2021
+*2021*
 
-:page_facing_up: Fabio Celli, Mirko Lai, Armend Duzha, Cristina Bosco, Viviana Patti (2021). Policycorpus XL: an Italian Corpus for the detection of Hate Speech Against Politics. Proceedings of Clic-it 2021. [https://github.com/facells/publications/blob/main/2021_policycorpusxl%40clicit21.pdf]
+:page_facing_up: [Fabio Celli, Mirko Lai, Armend Duzha, Cristina Bosco, Viviana Patti (2021). Policycorpus XL: an Italian Corpus for the detection of Hate Speech Against Politics. Proceedings of Clic-it 2021.](https://github.com/facells/publications/blob/main/docs/2021_policycorpusxl@clicit21.pdf)
 
 :page_facing_up: Policycorpus  Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223. https://doi.org/10.1007/s43545-021-00234-2
 
 :page_facing_up: Lex2vec  Fabio Celli (2021). Lex2vec: making Explainable Word Embeddings via Lexical Resources
 
-2020
+*2020*
+
  TextCat dataset :page_facing_up: Riccardo Coltrinari, Alessandro Antinori, Fabio Celli (2020). Surviving the Legal Jungle:Text Classification of Italian Laws in extremely Noisy conditions. Proceedings of Clic-it 2020, Bologna, Italy
 
 2019
