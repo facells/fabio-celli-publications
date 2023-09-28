@@ -19,7 +19,7 @@
 
 *2022*
 
- 📄 Fabio Celli (2022). Learnipy. Technical report. 💻 [Learnipy repository](https://github.com/facells/learnipy)
+ 📄 [Fabio Celli (2022). Learnipy. Technical report.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2022_learnipy_techreport.pdf) 💻 [Learnipy repository](https://github.com/facells/learnipy)
 
 *2021*
 
