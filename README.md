@@ -39,7 +39,7 @@
 
 *2018*
 
- 📄 [Fabio Celli, Bruno Lepri (2018). Is Big Five better than MBTI? A personality computing challenge using Twitter data. Proceedings of Clic-it 2018, Turin, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2018_big5mbti_clicit18.pdf) 📦 [Big5MBTI_dataset ](https://github.com/facells/fabio-celli-publications/blob/main/docs/wiki-music-dataset-v1.zip)
+ 📄 [Fabio Celli, Bruno Lepri (2018). Is Big Five better than MBTI? A personality computing challenge using Twitter data. Proceedings of Clic-it 2018, Turin, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2018_big5mbti_clicit18.pdf) 📦 [Big5MBTI_dataset ](https://github.com/facells/fabio-celli-publications/blob/main/docs/big5mbti_data.zip)
 
 *2017*
 
