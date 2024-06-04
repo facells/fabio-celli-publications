@@ -13,6 +13,10 @@
 
 **Publications**
 
+*2024*
+
+📄 [Mingazov, D., Celli, F. (2024). Process Mining of Public Administration Operations from Big Data. Proceedings of Ital-IA 2024.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_sicra_bpmn_Ital_IA_cameraready.pdf) 📦 [logs data](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_logs_dataextraction.zip)
+
 *2023*
 
  📄 [Lai, M., Celli, F., Ramponi, A., Tonelli, S., Bosco, C., & Patti, V. (2023). Haspeede3 at evalita 2023: Overview of the political and religious hate speech detection task. In Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2023), CEUR. org, Parma, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2023_lai-al_haspeede3@evalita.pdf)
@@ -25,7 +29,7 @@
 
  📄 [Fabio Celli, Mirko Lai, Armend Duzha, Cristina Bosco, Viviana Patti (2021). Policycorpus XL: an Italian Corpus for the detection of Hate Speech Against Politics. Proceedings of Clic-it 2021.](https://github.com/facells/publications/blob/main/docs/2021_policycorpusxl@clicit21.pdf)
 
- 📄 [Policycorpus  Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_duzha-al_hate-politics.pdf) 📦 [policycorpusv1 data](https://github.com/facells/fabio-celli-publications/blob/main/docs/policycorpus.zip)
+ 📄 [Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_duzha-al_hate-politics.pdf) 📦 [policycorpusv1 data](https://github.com/facells/fabio-celli-publications/blob/main/docs/policycorpus.zip)
 
  📄 [Lex2vec  Fabio Celli (2021). Lex2vec: making Explainable Word Embeddings via Lexical Resources](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_lex2vec.pdf) 💻 [perl code](https://github.com/facells/fabio-celli-publications/blob/main/docs/lex2vec.zip)
 
