@@ -85,7 +85,7 @@
 
  📄 [Celli F, Riccardi G, Ghosh A. (2014) : CorEA: Italian News Corpus with Emotions and Agreement. Proceedings of Clic-it 2014: 98-102.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014-corea@clicit.pdf) 📦 [CorEA dataset](https://github.com/facells/fabio-celli-publications/blob/main/docs/CorEA.v2-final.zip)
  
- 📄 [Celli F, Lepri B, Biel J I, Gatica-Perez D, Riccardi G, Pianesi F (2014): The Workshop on Computational Personality Recognition 2014. ACM Multimedia 2014: pp 1245-1246](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014_wcpr-celli.pdf) 📦 [WCPR14 data](wcpr14_data.zip)
+ 📄 [Celli F, Lepri B, Biel J I, Gatica-Perez D, Riccardi G, Pianesi F (2014): The Workshop on Computational Personality Recognition 2014. ACM Multimedia 2014: pp 1245-1246](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014_wcpr-celli.pdf) 📦 [WCPR14 data]([docs/](https://github.com/facells/fabio-celli-publications/blob/main/docs/wcpr14_data.zip)
  
  📄 [Celli F, Bruni E, Lepri B. (2014). Automatic Personality and Interaction Style Recognition from Facebook Profile Pictures. ACM Multimedia: pp 1101-1104.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014celli-al@acmmm.pdf)
  
