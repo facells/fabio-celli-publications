@@ -15,6 +15,8 @@
 
 *2024*
 
+📄 [Celli, F. Basile, V. (2024). History Repeats: Historical Phase Recognition from Short Texts. Proceedings of Clic-it 2024.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_history_repeats_clicit24_cameraready.pdf)
+
 📄 [Mingazov, D., Celli, F. (2024). Process Mining of Public Administration Operations from Big Data. Proceedings of Ital-IA 2024.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_sicra_bpmn_Ital_IA_cameraready.pdf) 📦 [logs data](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_logs_dataextraction.zip)
 
 *2023*
