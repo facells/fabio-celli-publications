@@ -15,7 +15,7 @@
 
 *2024*
 
-📄 [Celli, F. Mingazov, D. (2024). Knowledge Extraction from LLMs for Scalable Historical Data Annotation. Electronics, 13(24)](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_celli_mingazov@electronics-13-04990.pdf)  📦 [replication data](2024_histo_gen_ai_replication_data.zip)
+📄 [Celli, F. Mingazov, D. (2024). Knowledge Extraction from LLMs for Scalable Historical Data Annotation. Electronics, 13(24)](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_celli_mingazov@electronics-13-04990.pdf)  📦 [replication data](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_histo_gen_ai_replication_data.zip)
 
 📄 [Celli, F. Basile, V. (2024). History Repeats: Historical Phase Recognition from Short Texts. Proceedings of Clic-it 2024.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_history_repeats_clicit24_cameraready.pdf)  📦 [chronos-sdt-cycles.1](https://github.com/facells/fabio-celli-publications/blob/main/docs/chronos-sdt-cycles.1.csv)
 
