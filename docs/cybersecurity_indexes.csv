@@ -1,4 +1,4 @@
-Country,Region,CEI,GCI,NCSI,DDL
+Country,Region,CybersecExposureIndex,GlobalCybersecIndex,NationalCybersecIndex,DigitalDevelopmentLevel
 Afghanistan,Asia-Pasific,1.0,5.2,11.69,19.5
 Albania,Europe,0.566,64.32,62.34,48.74
 Algeria,Africa,0.721,33.95,33.77,42.81
