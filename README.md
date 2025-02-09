@@ -13,6 +13,11 @@
 
 **Publications**
 
+*2025*
+
+📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025: 21st Conference on Information and Research Science Connecting to Digital and Library Science](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  📦 [replication data](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_histo_gen_ai_replication_data.zip)
+
+
 *2024*
 
 📄 [Celli, F. Mingazov, D. (2024). Knowledge Extraction from LLMs for Scalable Historical Data Annotation. Electronics, 13(24)](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_celli_mingazov@electronics-13-04990.pdf)  📦 [replication data](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_histo_gen_ai_replication_data.zip)
