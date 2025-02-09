@@ -1,17 +1,9 @@
 **Fabio Celli publications**
 
-**research area**
-- Personality Computing
-- Natural Language Processing
-- Computational Social Sciences
-- Digital Humanities
-
-**links**
-
-[Scholar](https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it) | [Twitter-x](https://twitter.com/facells) | 📧 fabio.celli.phd@gmail.com
+[Scholar](https://scholar.google.it/citations?user=ByZnr0sAAAAJ&hl=it) 
 
 
-**Publications**
+**Publication Downloads**
 
 *2025*
 
