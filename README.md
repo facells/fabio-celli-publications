@@ -15,7 +15,7 @@
 
 *2025*
 
-📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025: 21st Conference on Information and Research Science Connecting to Digital and Library Science](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  📦 [chronos-seshat dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-seshat.0.csv)
+📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  📦 [chronos-seshat dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-seshat.0.csv)
 
 
 *2024*
