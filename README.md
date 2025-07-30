@@ -7,7 +7,7 @@
 
 *2025*
 
-📄 [Celli, F. Rovera, M. (2025). Benchmarking Historical Phase Recognition from Text and Event. CLiC-it 2025](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_events_history_clic_it25.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-historical-sdt-benchmark)
+📄 [Celli, F. Rovera, M. (2025). Benchmarking Historical Phase Recognition from Text and Event. CLiC-it 2025](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_events_history_clic_it25.pdf)  📦 [chronos-sdt-benchmark](https://huggingface.co/datasets/facells/chronos-historical-sdt-benchmark)
 
 📄 [Celli, F. Basile, V. (2025). Large Language Models Rival Human Performance in Historical Labeling. Proceedings of ARDUOUS 2025, co-located with ECAI](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-basile_histoannschema_arduous25_cameraready_final.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-llm-sdt-agreeement)
 
