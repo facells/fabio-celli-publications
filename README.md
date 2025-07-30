@@ -7,7 +7,9 @@
 
 *2025*
 
-📄 [Celli, F. Basile, V. (2025). Large Language Models Rival Human Performance in Historical Labeling. Proceedings of ARDUOUS 2025](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-basile_histoannschema_arduous25_cameraready_final.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-llm-sdt-agreeement)
+📄 [Celli, F. Rovera, M. (2025). Benchmarking Historical Phase Recognition from Text and Event. CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, September 24 — 26, 2025, Cagliari, Italy](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_events_history_clic_it25.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-historical-sdt-benchmark)
+
+📄 [Celli, F. Basile, V. (2025). Large Language Models Rival Human Performance in Historical Labeling. Proceedings of ARDUOUS 2025, co-located with ECAI, Bologna, Italy](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-basile_histoannschema_arduous25_cameraready_final.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-llm-sdt-agreeement)
 
 📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  📦 [chronos-seshat dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-seshat.0.csv)
 
