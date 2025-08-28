@@ -24,6 +24,8 @@
 
 *2023*
 
+ 📄 [Celli, F. (2023). Feature Engineering for Quantitative Analysis of Cultural Evolution. SocArXiv](https://github.com/facells/fabio-celli-publications/blob/main/docs/2023_celli_features_cultural_evolution.pdf)
+
  📄 [Lai, M., Celli, F., Ramponi, A., Tonelli, S., Bosco, C., & Patti, V. (2023). Haspeede3 at evalita 2023: Overview of the political and religious hate speech detection task. In Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2023), CEUR. org, Parma, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2023_lai-al_haspeede3@evalita.pdf)
 
 *2022*
