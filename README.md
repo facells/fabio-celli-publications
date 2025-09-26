@@ -7,22 +7,22 @@
 
 *2025*
 
-📄 [Celli, F. Samal, A. (2025). Monitoring Historical Cultural Hacking in Large Language Models. Proceedings of TRUST-AI 2025, co-located with ECAI](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-samal_trustai25_cameraready.pdf)  📦 [culture hacking dataset](https://github.com/facells/fabio-celli-publications/blob/main/docs/chd.zip)
+📄 [Celli, F. Samal, A. (2025). Monitoring Historical Cultural Hacking in Large Language Models. Proceedings of TRUST-AI 2025, co-located with ECAI. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-samal_trustai25_cameraready.pdf)  📦 [culture hacking dataset](https://github.com/facells/fabio-celli-publications/blob/main/docs/chd.zip)
 
-📄 [Celli, F. Rovera, M. (2025). Benchmarking Historical Phase Recognition from Text and Event. CLiC-it 2025](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_events_history_clic_it25.pdf)  📦 [chronos-sdt-benchmark](https://huggingface.co/datasets/facells/chronos-historical-sdt-benchmark)
+📄 [Celli, F. Rovera, M. (2025). Benchmarking Historical Phase Recognition from Text and Event. CLiC-it 2025. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_events_history_clic_it25.pdf)  📦 [chronos-sdt-benchmark](https://huggingface.co/datasets/facells/chronos-historical-sdt-benchmark)
 
-📄 [Celli, F. Basile, V. (2025). Large Language Models Rival Human Performance in Historical Labeling. Proceedings of ARDUOUS 2025, co-located with ECAI](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-basile_histoannschema_arduous25_cameraready_final.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-llm-sdt-agreeement)
+📄 [Celli, F. Basile, V. (2025). Large Language Models Rival Human Performance in Historical Labeling. Proceedings of ARDUOUS 2025, co-located with ECAI. CLIMINVEST](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-basile_histoannschema_arduous25_cameraready_final.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-llm-sdt-agreeement)
 
-📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  📦 [chronos-seshat dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-seshat.0.csv)
+📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  📦 [chronos-seshat dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-seshat.0.csv)
 
 
 *2024*
 
-📄 [Celli, F. Mingazov, D. (2024). Knowledge Extraction from LLMs for Scalable Historical Data Annotation. Electronics, 13(24)](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_celli_mingazov@electronics-13-04990.pdf)  📦 [history-gen-ai dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_histo_gen_ai_replication_data.zip)
+📄 [Celli, F. Mingazov, D. (2024). Knowledge Extraction from LLMs for Scalable Historical Data Annotation. Electronics, 13(24). ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_celli_mingazov@electronics-13-04990.pdf)  📦 [history-gen-ai dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_histo_gen_ai_replication_data.zip)
 
-📄 [Celli, F. Basile, V. (2024). History Repeats: Historical Phase Recognition from Short Texts. Proceedings of Clic-it 2024.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_history_repeats_clicit24_cameraready.pdf)  📦 [chronos-cycles dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-sdt-cycles.1.csv)
+📄 [Celli, F. Basile, V. (2024). History Repeats: Historical Phase Recognition from Short Texts. Proceedings of Clic-it 2024. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_history_repeats_clicit24_cameraready.pdf)  📦 [chronos-cycles dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-sdt-cycles.1.csv)
 
-📄 [Mingazov, D., Celli, F. (2024). Process Mining of Public Administration Operations from Big Data. Proceedings of Ital-IA 2024.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_sicra_bpmn_Ital_IA_cameraready.pdf) 📦 [logs dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_logs_dataextraction.zip)
+📄 [Mingazov, D., Celli, F. (2024). Process Mining of Public Administration Operations from Big Data. Proceedings of Ital-IA 2024. ENFLIED](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_sicra_bpmn_Ital_IA_cameraready.pdf) 📦 [logs dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_logs_dataextraction.zip)
 
 *2023*
 
