@@ -5,6 +5,10 @@
 
 **Publication Downloads**
 
+*2026*
+
+📄 [Baroni, S. Ferri, C. Celli, (2026). LLM-driven Open Information Extraction of Business Data from Documents on Climate Change. Proceedings of IRCDL 2026: 22nd Conference on Information and Research Science Connecting to Digital and Library Science, CLIMINVEST](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_climatechange_oie_ircdl.pdf) 
+
 *2025*
 
 📄 [Celli, F. Samal, A. (2025). Monitoring Historical Cultural Hacking in Large Language Models. Proceedings of TRUST-AI 2025, co-located with ECAI. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-samal_trustai25_cameraready.pdf)  📦 [culture hacking dataset](https://github.com/facells/fabio-celli-publications/blob/main/docs/chd.zip)
