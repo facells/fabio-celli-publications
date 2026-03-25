@@ -7,6 +7,8 @@
 
 *2026*
 
+📄 [Celli F, Kartelj A, Đorđević M, Suhartono D, Filipović V, Milutinović V, Spathoulas G, Vinciarelli A, Kosinski M, Lepri B. (2026) Twenty years of personality computing: Threats, challenges and future directions. ACM Computing Surveys.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_20YearsofPersonality_final.pdf) 
+
 📄 [Baroni, S. Ferri, C. Celli, (2026). LLM-driven Open Information Extraction of Business Data from Documents on Climate Change. Proceedings of IRCDL 2026: 22nd Conference on Information and Research Science Connecting to Digital and Library Science, CLIMINVEST](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_climatechange_oie_ircdl.pdf) 
 
 *2025*
