@@ -8,11 +8,14 @@
 
 *2026*
 
-📄 [Celli F (2026) Developing a Perspectivist Historical Databank with Large Language Models. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_perspective_seshat_clicit26.pdf)  📦 [seshat-perspective](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/seshat_perspective.zip)
+📄 [Celli F (2026) Developing a Perspectivist Historical Databank with Large Language Models. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_perspective_seshat_clicit26.pdf)  
+📦 [seshat-perspective](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/seshat_perspective.zip)
 
-📄 [Celli F., Spathoulas, G. (2026) Comparing Large Language Models and Humans in Historical Interpretation. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_ai-human-history_clicit26.pdf)  📦 [chronos-human-ai](https://raw.githubusercontent.com/facells/fabio-celli-publications/refs/heads/main/docs/chronos-human-ai.csv)
+📄 [Celli F., Spathoulas, G. (2026) Comparing Large Language Models and Humans in Historical Interpretation. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_ai-human-history_clicit26.pdf)  
+📦 [chronos-human-ai](https://raw.githubusercontent.com/facells/fabio-celli-publications/refs/heads/main/docs/chronos-human-ai.csv)
 
-📄 [Tripodi, K., Weist, F., Sottosanti, A., Celli F. (2026). Topics of Resilience: Improving Historical Phase Recognition with Paleo Climate, Risk Management and Topic Modeling. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics. CLIMINVEST](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_climate_clicit26.pdf)  📦 [chronos-climate](https://huggingface.co/datasets/facells/chronos-climate)
+📄 [Tripodi, K., Weist, F., Sottosanti, A., Celli F. (2026). Topics of Resilience: Improving Historical Phase Recognition with Paleo Climate, Risk Management and Topic Modeling. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics. CLIMINVEST](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_climate_clicit26.pdf)  
+📦 [chronos-climate](https://huggingface.co/datasets/facells/chronos-climate)
 
 📄 [Celli F, Kartelj A, Đorđević M, Suhartono D, Filipović V, Milutinović V, Spathoulas G, Vinciarelli A, Kosinski M, Lepri B. (2026) Twenty years of personality computing: Threats, challenges and future directions. ACM Computing Surveys. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_20YearsofPersonality_final.pdf) 
 
@@ -20,22 +23,29 @@
 
 *2025*
 
-📄 [Celli, F. Samal, A. (2025). Monitoring Historical Cultural Hacking in Large Language Models. Proceedings of TRUST-AI 2025, co-located with ECAI. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-samal_trustai25_cameraready.pdf)  📦 [culture hacking dataset](https://github.com/facells/fabio-celli-publications/blob/main/docs/chd.zip)
+📄 [Celli, F. Samal, A. (2025). Monitoring Historical Cultural Hacking in Large Language Models. Proceedings of TRUST-AI 2025, co-located with ECAI. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-samal_trustai25_cameraready.pdf)  
+📦 [culture hacking dataset](https://github.com/facells/fabio-celli-publications/blob/main/docs/chd.zip)
 
-📄 [Celli, F. Rovera, M. (2025). Benchmarking Historical Phase Recognition from Text and Event. CLiC-it 2025. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_events_history_clic_it25.pdf)  📦 [chronos-sdt-benchmark](https://huggingface.co/datasets/facells/chronos-historical-sdt-benchmark)
+📄 [Celli, F. Rovera, M. (2025). Benchmarking Historical Phase Recognition from Text and Event. CLiC-it 2025. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_events_history_clic_it25.pdf)  
+📦 [chronos-sdt-benchmark](https://huggingface.co/datasets/facells/chronos-historical-sdt-benchmark)
 
-📄 [Celli, F. Basile, V. (2025). Large Language Models Rival Human Performance in Historical Labeling. Proceedings of ARDUOUS 2025, co-located with ECAI. CLIMINVEST](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-basile_histoannschema_arduous25_cameraready_final.pdf)  📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-llm-sdt-agreeement)
+📄 [Celli, F. Basile, V. (2025). Large Language Models Rival Human Performance in Historical Labeling. Proceedings of ARDUOUS 2025, co-located with ECAI. CLIMINVEST](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli-basile_histoannschema_arduous25_cameraready_final.pdf)  
+📦 [chronos-llm-agreement dataset](https://huggingface.co/datasets/facells/chronos-llm-sdt-agreeement)
 
-📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  📦 [chronos-seshat dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-seshat.0.csv)
+📄 [Celli, F. (2025). How to Compress Categorical Variables to Visualize Historical Dynamics. Proceedings of IRCDL 2025. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2025_celli_chronos@ircdl25_cameraready.pdf)  
+📦 [chronos-seshat dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-seshat.0.csv)
 
 
 *2024*
 
-📄 [Celli, F. Mingazov, D. (2024). Knowledge Extraction from LLMs for Scalable Historical Data Annotation. Electronics, 13(24). ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_celli_mingazov@electronics-13-04990.pdf)  📦 [history-gen-ai dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_histo_gen_ai_replication_data.zip)
+📄 [Celli, F. Mingazov, D. (2024). Knowledge Extraction from LLMs for Scalable Historical Data Annotation. Electronics, 13(24). ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_celli_mingazov@electronics-13-04990.pdf)  
+📦 [history-gen-ai dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_histo_gen_ai_replication_data.zip)
 
-📄 [Celli, F. Basile, V. (2024). History Repeats: Historical Phase Recognition from Short Texts. Proceedings of Clic-it 2024. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_history_repeats_clicit24_cameraready.pdf)  📦 [chronos-cycles dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-sdt-cycles.1.csv)
+📄 [Celli, F. Basile, V. (2024). History Repeats: Historical Phase Recognition from Short Texts. Proceedings of Clic-it 2024. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_history_repeats_clicit24_cameraready.pdf)  
+📦 [chronos-cycles dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/chronos-sdt-cycles.1.csv)
 
-📄 [Mingazov, D., Celli, F. (2024). Process Mining of Public Administration Operations from Big Data. Proceedings of Ital-IA 2024. ENFLIED](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_sicra_bpmn_Ital_IA_cameraready.pdf) 📦 [logs dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_logs_dataextraction.zip)
+📄 [Mingazov, D., Celli, F. (2024). Process Mining of Public Administration Operations from Big Data. Proceedings of Ital-IA 2024. ENFLIED](https://github.com/facells/fabio-celli-publications/blob/main/docs/2024_sicra_bpmn_Ital_IA_cameraready.pdf) 
+📦 [logs dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/2024_logs_dataextraction.zip)
 
 *2023*
 
@@ -45,27 +55,33 @@
 
 *2022*
 
- 📄 [Fabio Celli (2022). Learnipy: a Repository for Teaching Machine Learning Without Coding. Technical report.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2022_learnipy_techreport.pdf) 💻 [Learnipy repository](https://github.com/facells/learnipy)
+ 📄 [Fabio Celli (2022). Learnipy: a Repository for Teaching Machine Learning Without Coding. Technical report.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2022_learnipy_techreport.pdf) 
+ 💻 [Learnipy repository](https://github.com/facells/learnipy)
 
 *2021*
 
  📄 [Fabio Celli, Mirko Lai, Armend Duzha, Cristina Bosco, Viviana Patti (2021). Policycorpus XL: an Italian Corpus for the detection of Hate Speech Against Politics. Proceedings of Clic-it 2021.](https://github.com/facells/publications/blob/main/docs/2021_policycorpusxl@clicit21.pdf)
 
- 📄 [Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_duzha-al_hate-politics.pdf) 📦 [policycorpusv1 data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/policycorpus.zip)
+ 📄 [Duzha, A., Casadei, C., Tosi, M. and Celli F. (2021). Hate versus politics: detection of hate against policy makers in Italian tweets. SN Soc Sci 1, 223.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_duzha-al_hate-politics.pdf) 
+ 📦 [policycorpusv1 data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/policycorpus.zip)
 
- 📄 [Lex2vec  Fabio Celli (2021). Lex2vec: making Explainable Word Embeddings via Lexical Resources](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_lex2vec.pdf) 💻 [perl code](https://github.com/facells/fabio-celli-publications/blob/main/docs/lex2vec.zip)
+ 📄 [Lex2vec  Fabio Celli (2021). Lex2vec: making Explainable Word Embeddings via Lexical Resources](https://github.com/facells/fabio-celli-publications/blob/main/docs/2021_lex2vec.pdf) 
+ 💻 [perl code](https://github.com/facells/fabio-celli-publications/blob/main/docs/lex2vec.zip)
 
 *2020*
 
- 📄 [Riccardo Coltrinari, Alessandro Antinori, Fabio Celli (2020). Surviving the Legal Jungle:Text Classification of Italian Laws in extremely Noisy conditions. Proceedings of Clic-it 2020, Bologna, Italy](https://github.com/facells/fabio-celli-publications/blob/main/docs/2020_textCat@clicit20.pdf) 📦 [textcat data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/textcat_data.zip)
+ 📄 [Riccardo Coltrinari, Alessandro Antinori, Fabio Celli (2020). Surviving the Legal Jungle:Text Classification of Italian Laws in extremely Noisy conditions. Proceedings of Clic-it 2020, Bologna, Italy](https://github.com/facells/fabio-celli-publications/blob/main/docs/2020_textCat@clicit20.pdf) 
+ 📦 [textcat data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/textcat_data.zip)
 
 *2019*
 
- 📄 [Fabio Celli (2019). The Wiki Music dataset: A tool for computational analysis of popular music. ArXiv. Cornell Univeristy. Aug 2019.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2019_celli_musicdataset.pdf) 📦 [wiki music dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/wiki-music-dataset-v1.zip)
+ 📄 [Fabio Celli (2019). The Wiki Music dataset: A tool for computational analysis of popular music. ArXiv. Cornell Univeristy. Aug 2019.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2019_celli_musicdataset.pdf) 
+ 📦 [wiki music dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/wiki-music-dataset-v1.zip)
 
 *2018*
 
- 📄 [Fabio Celli, Bruno Lepri (2018). Is Big Five better than MBTI? A personality computing challenge using Twitter data. Proceedings of Clic-it 2018, Turin, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2018_big5mbti_clicit18.pdf) 📦 [Big5MBTI_dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/big5mbti_data.zip)
+ 📄 [Fabio Celli, Bruno Lepri (2018). Is Big Five better than MBTI? A personality computing challenge using Twitter data. Proceedings of Clic-it 2018, Turin, Italy.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2018_big5mbti_clicit18.pdf) 
+ 📦 [Big5MBTI_dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/big5mbti_data.zip)
 
 *2017*
 
@@ -83,7 +99,8 @@
  
  📄 [Firoj Alam, Fabio Celli, Evgeny A. Stepanov, Arindam Ghosh, Giuseppe Riccardi. (2016). The Social Mood of News: Self-reported Annotations to Design Automatic Mood Detection Systems. In Proc. of PEOPLES, in conjunction to COLing 2016.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2016_social-mood-news@peoples16.pdf)
  
- 📄 [Fabio Celli, Evgeny A. Stepanov, Giuseppe Riccardi. (2016). Tell me who you are, I'll tell whether you agree or disagree: Prediction of agreement/disagreement in news blog. In Proc. of NLPMJ, in conjunction to IJCAI 2016.](2016_fc-al_agree@NLPMJ.pdf) 💻 [Agreement/Disagreement Reltion extraction (ADRian) source code](https://github.com/facells/fabio-celli-publications/blob/main/docs/adrian1.zip)
+ 📄 [Fabio Celli, Evgeny A. Stepanov, Giuseppe Riccardi. (2016). Tell me who you are, I'll tell whether you agree or disagree: Prediction of agreement/disagreement in news blog. In Proc. of NLPMJ, in conjunction to IJCAI 2016.](2016_fc-al_agree@NLPMJ.pdf) 
+ 💻 [Agreement/Disagreement Reltion extraction (ADRian) source code](https://github.com/facells/fabio-celli-publications/blob/main/docs/adrian1.zip)
  
  📄 [Fabio Celli. (2016). Computational Approaches to the Analysis of Human Creativity. In Lecture Notes in Morphogenesis, p 187-195.](2016_creativity@LNiM.pdf)
  
@@ -101,13 +118,16 @@
  
  📄 [Rangel, F; Celli, F; Rosso, Potthast M.; Stein, B; Daelemans, W. (2015). Overview of the 3rd Author Profiling Task at PAN 2015. In Linda Cappellato and Nicola Ferro and Gareth Jones and Eric San Juan (eds.): CLEF 2015 Labs and Workshops, Notebook Papers, 8-11 September, Toulouse, France.](2015-pan@clef.pdf)
  
- 📄 [IATO open source code (perl)  Celli, F. (2015). IATO: feature extraction system for image analysis Technical report.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2015-iato@techreport.pdf) 💻 [IATO perl code](https://github.com/facells/fabio-celli-publications/blob/main/docs/iato1.zip)
+ 📄 [IATO open source code (perl)  Celli, F. (2015). IATO: feature extraction system for image analysis Technical report.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2015-iato@techreport.pdf) 
+ 💻 [IATO perl code](https://github.com/facells/fabio-celli-publications/blob/main/docs/iato1.zip)
 
 *2014*
 
- 📄 [Celli F, Riccardi G, Ghosh A. (2014) : CorEA: Italian News Corpus with Emotions and Agreement. Proceedings of Clic-it 2014: 98-102.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014-corea@clicit.pdf) 📦 [CorEA dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/CorEA.v2-final.zip)
+ 📄 [Celli F, Riccardi G, Ghosh A. (2014) : CorEA: Italian News Corpus with Emotions and Agreement. Proceedings of Clic-it 2014: 98-102.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014-corea@clicit.pdf) 
+ 📦 [CorEA dataset](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/CorEA.v2-final.zip)
  
- 📄 [Celli F, Lepri B, Biel J I, Gatica-Perez D, Riccardi G, Pianesi F (2014): The Workshop on Computational Personality Recognition 2014. ACM Multimedia 2014: pp 1245-1246](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014_wcpr-celli.pdf) 📦 [WCPR14 data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/wcpr14_data.zip)
+ 📄 [Celli F, Lepri B, Biel J I, Gatica-Perez D, Riccardi G, Pianesi F (2014): The Workshop on Computational Personality Recognition 2014. ACM Multimedia 2014: pp 1245-1246](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014_wcpr-celli.pdf) 
+ 📦 [WCPR14 data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/wcpr14_data.zip)
  
  📄 [Celli F, Bruni E, Lepri B. (2014). Automatic Personality and Interaction Style Recognition from Facebook Profile Pictures. ACM Multimedia: pp 1101-1104.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2014celli-al@acmmm.pdf)
  
@@ -126,7 +146,8 @@
  
  📄 [Celli F., Polonio L. (2013). Relationships between Personality and Interactions in Facebook. In: Xin Ming Tu, Ann Marie White and Naiji Lu (Editors): Social Networking: Recent Trends, Emerging Issues and Future Outlook. Nova Science Publishers, Inc. pp. 41-54.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2013-fc-lp-pr-fb-@nova.pdf)
  
- 📄 [Celli F., Pianesi F., Stillwell D., Kosinski M. (2013) Workshop on Computational Personality Recognition (Shared Task). In Proceedings of WCPR13, in conjunction with ICWSM-13](https://github.com/facells/fabio-celli-publications/blob/main/docs/2013_celli_wcpr13.pdf) 📦 [WCPR13 data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/wcpr13_myp_final-dist.zip)
+ 📄 [Celli F., Pianesi F., Stillwell D., Kosinski M. (2013) Workshop on Computational Personality Recognition (Shared Task). In Proceedings of WCPR13, in conjunction with ICWSM-13](https://github.com/facells/fabio-celli-publications/blob/main/docs/2013_celli_wcpr13.pdf) 
+ 📦 [WCPR13 data](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/wcpr13_myp_final-dist.zip)
  
  📘 [Celli, F. (2013) Adaptive Personality Recognition from Text. Lambert Academic Publishing, Saarbrücken, DE.](https://www.amazon.com/Adaptive-Personality-Recognition-Fabio-Celli/dp/365935404X)
 
