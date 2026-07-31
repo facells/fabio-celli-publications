@@ -5,7 +5,14 @@
 
 **Publication Downloads**
 
+
 *2026*
+
+📄 [Celli F (2026) Developing a Perspectivist Historical Databank with Large Language Models. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_perspective_seshat_clicit26.pdf)  📦 [seshat-perspective](https://github.com/facells/fabio-celli-publications/raw/refs/heads/main/docs/seshat_perspective.zip)
+
+📄 [Celli F., Spathoulas, G. (2026) Comparing Large Language Models and Humans in Historical Interpretation. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_ai-human-history_clicit26.pdf)  📦 [chronos-human-ai](https://raw.githubusercontent.com/facells/fabio-celli-publications/refs/heads/main/docs/chronos-human-ai.csv)
+
+📄 [Tripodi, K., Weist, F., Sottosanti, A., Celli F. (2026). Topics of Resilience: Improving Historical Phase Recognition with Paleo Climate, Risk Management and Topic Modeling. Proceedings of CLiC-it 2026: Twelfth Italian Conference on Computational Linguistics.](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_climate_clicit26.pdf)  📦 [chronos-climate](https://huggingface.co/datasets/facells/chronos-climate)
 
 📄 [Celli F, Kartelj A, Đorđević M, Suhartono D, Filipović V, Milutinović V, Spathoulas G, Vinciarelli A, Kosinski M, Lepri B. (2026) Twenty years of personality computing: Threats, challenges and future directions. ACM Computing Surveys. ENFIELD](https://github.com/facells/fabio-celli-publications/blob/main/docs/2026_20YearsofPersonality_final.pdf) 
 
